@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Note001.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -132,5 +132,8 @@
     }
   },
   "active": "d29419408a57c19e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "2023-11-22.md",
+    "Note001.md"
+  ]
 }
