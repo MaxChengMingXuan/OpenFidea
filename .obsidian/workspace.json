@@ -11,14 +11,11 @@
             "id": "0cc7f0bb96acb3dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -295,
-                  "y": -270,
-                  "zoom": 0
-                }
+                "file": "Note001.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Note001.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Note001.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Note001.md"
               }
             }
           }
@@ -151,8 +148,8 @@
   },
   "active": "0cc7f0bb96acb3dd",
   "lastOpenFiles": [
-    "Note001.md",
     "Untitled.canvas",
+    "Note001.md",
     "2023-11-22.md"
   ]
 }
