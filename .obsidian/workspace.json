@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note001.md",
+                "file": "2023-11-22.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note001.md",
+                "file": "2023-11-22.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note001.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note001.md"
+                "file": "2023-11-22.md"
               }
             }
           }
@@ -191,10 +191,10 @@
   },
   "active": "03d4bbfbac33aaa2",
   "lastOpenFiles": [
-    "2023-11-22.md",
-    "Note001.md",
-    "conflict-files-obsidian-git.md",
     "printer01.png",
+    "Note001.md",
+    "2023-11-22.md",
+    "conflict-files-obsidian-git.md",
     "test.png",
     "Pasted.md",
     "test.png=300x200.md",
