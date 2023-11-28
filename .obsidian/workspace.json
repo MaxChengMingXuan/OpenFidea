@@ -57,8 +57,21 @@
                 "file": "printer01.png"
               }
             }
+          },
+          {
+            "id": "2516b8b910ff9f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "printer01.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "printer01.png",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "printer01.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -184,13 +197,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bdc9536c446e58b",
+  "active": "34c14279a8965660",
   "lastOpenFiles": [
+    "printer01.png",
+    "conflict-files-obsidian-git.md",
+    "Untitled.md",
+    "1701130571928.jpg",
     "2023-11-22.md",
     "Note001.md",
-    "printer01.png",
     "Untitled.canvas",
-    "conflict-files-obsidian-git.md",
     "test.png",
     "Pasted.md",
     "test.png=300x200.md",
