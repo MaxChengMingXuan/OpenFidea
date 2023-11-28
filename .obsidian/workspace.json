@@ -54,7 +54,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "printer01.png"
+                "file": "1701130571928.jpg"
               }
             }
           }
@@ -124,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1701130571928.jpg",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1701130571928.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "1701130571928.jpg"
               }
             }
           }
@@ -182,14 +184,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34c14279a8965660",
+  "active": "2bdc9536c446e58b",
   "lastOpenFiles": [
+    "Note001.md",
     "printer01.png",
-    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "1701130571928.jpg",
+    "conflict-files-obsidian-git.md",
     "2023-11-22.md",
-    "Note001.md",
     "Untitled.canvas",
     "test.png",
     "Pasted.md",
