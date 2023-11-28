@@ -35,11 +35,9 @@
             "id": "03d4bbfbac33aaa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023-11-22.md",
-                "mode": "source",
-                "source": true
+                "file": "printer01.png"
               }
             }
           }
@@ -54,11 +52,9 @@
             "id": "2bdc9536c446e58b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2023-11-22.md",
-                "mode": "preview",
-                "source": true
+                "file": "printer01.png"
               }
             }
           }
@@ -128,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "printer01.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "printer01.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-22.md"
+                "file": "printer01.png"
               }
             }
           }
@@ -176,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +184,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d4bbfbac33aaa2",
+  "active": "2bdc9536c446e58b",
   "lastOpenFiles": [
-    "printer01.png",
-    "Note001.md",
     "2023-11-22.md",
+    "Note001.md",
+    "printer01.png",
     "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "test.png",
