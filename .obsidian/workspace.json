@@ -30,19 +30,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "03d4bbfbac33aaa2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "printer01.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6d2f93aa2e63aaa1",
@@ -52,9 +42,11 @@
             "id": "2bdc9536c446e58b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "1701130571928.jpg"
+                "file": "2023-11-22.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -124,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1701130571928.jpg",
+                "file": "2023-11-22.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1701130571928.jpg",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1701130571928.jpg"
+                "file": "2023-11-22.md"
               }
             }
           }
@@ -186,12 +178,12 @@
   },
   "active": "2bdc9536c446e58b",
   "lastOpenFiles": [
-    "Note001.md",
-    "printer01.png",
-    "Untitled.md",
     "1701130571928.jpg",
-    "conflict-files-obsidian-git.md",
+    "Note001.md",
     "2023-11-22.md",
+    "Untitled.md",
+    "printer01.png",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "test.png",
     "Pasted.md",
