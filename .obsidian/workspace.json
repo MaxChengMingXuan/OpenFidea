@@ -6,6 +6,7 @@
       {
         "id": "cec35a65b6381591",
         "type": "tabs",
+        "dimension": 55.88662790697675,
         "children": [
           {
             "id": "e7ea9979befe6fde",
@@ -24,6 +25,7 @@
       {
         "id": "6d2f93aa2e63aaa1",
         "type": "tabs",
+        "dimension": 44.11337209302326,
         "children": [
           {
             "id": "ab492b0b9406dded",
@@ -163,12 +165,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab492b0b9406dded",
+  "active": "e7ea9979befe6fde",
   "lastOpenFiles": [
-    "1701130571928.jpg",
     "Note001.md",
-    "Pasted image 20231129090925.png",
+    "flow.png",
     "2023-11-22.md",
+    "boxes.jpg",
     "printer01.png.md",
     "Untitled.md",
     "printer01.png",
