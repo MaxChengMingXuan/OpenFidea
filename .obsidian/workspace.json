@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "ab492b0b9406dded",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-11-22.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6d2f93aa2e63aaa1",
@@ -42,15 +29,26 @@
             "id": "2bdc9536c446e58b",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "1701130571928.jpg"
+              }
+            }
+          },
+          {
+            "id": "ab492b0b9406dded",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "2023-11-22.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,11 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bdc9536c446e58b",
+  "active": "ab492b0b9406dded",
   "lastOpenFiles": [
     "1701130571928.jpg",
-    "Note001.md",
     "2023-11-22.md",
+    "Note001.md",
+    "printer01.png.md",
     "Untitled.md",
     "printer01.png",
     "conflict-files-obsidian-git.md",
