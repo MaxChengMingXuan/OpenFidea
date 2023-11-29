@@ -26,16 +26,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bdc9536c446e58b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "1701130571928.jpg"
-              }
-            }
-          },
-          {
             "id": "ab492b0b9406dded",
             "type": "leaf",
             "state": {
@@ -47,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +166,9 @@
   "active": "ab492b0b9406dded",
   "lastOpenFiles": [
     "1701130571928.jpg",
-    "2023-11-22.md",
     "Note001.md",
+    "Pasted image 20231129090925.png",
+    "2023-11-22.md",
     "printer01.png.md",
     "Untitled.md",
     "printer01.png",
