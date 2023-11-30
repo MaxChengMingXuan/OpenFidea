@@ -6,7 +6,7 @@
       {
         "id": "cec35a65b6381591",
         "type": "tabs",
-        "dimension": 55.88662790697675,
+        "dimension": 55.88662790697674,
         "children": [
           {
             "id": "e7ea9979befe6fde",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "Vintern LogBook Temp.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "Vintern LogBook Temp.md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "Vintern LogBook Temp.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-11-22.md",
+                "file": "Vintern LogBook Temp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-11-22.md"
+                "file": "Vintern LogBook Temp.md"
               }
             }
           }
@@ -168,8 +168,8 @@
   "active": "e7ea9979befe6fde",
   "lastOpenFiles": [
     "Note001.md",
+    "Vintern LogBook Temp.md",
     "flow.png",
-    "2023-11-22.md",
     "boxes.jpg",
     "printer01.png.md",
     "Untitled.md",
