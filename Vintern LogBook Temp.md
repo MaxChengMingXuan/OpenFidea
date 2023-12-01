@@ -25,5 +25,5 @@ When the resignee arrived, I will check the resignees' belonging with the MIS li
 
 Then I will need to kept the returns to the resignee locker. 
 
-Once kept the items, I will then records the details of the resignees in the google sheet. 
+Once kept the items, I will then records the details of the resignees in the google sheet.  Lastly, I need to delete the staff info of the resignee and 
 
