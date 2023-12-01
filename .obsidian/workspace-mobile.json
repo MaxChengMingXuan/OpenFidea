@@ -11,10 +11,8 @@
             "id": "d29419408a57c19e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "1701130571928.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1701130571928.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "1701130571928.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "1701130571928.jpg"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,6 +125,14 @@
   },
   "active": "626752776b8f7edb",
   "lastOpenFiles": [
+    "flow.png",
+    "Vintern LogBook Temp.md",
+    "ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
+    "boxes.jpg",
+    "/flow.png",
+    "/Vintern LogBook Temp.md",
+    "/ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
+    "/boxes.jpg",
     "Note001.md",
     "2023-11-22.md",
     "1701130571928.jpg",
