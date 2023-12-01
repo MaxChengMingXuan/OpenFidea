@@ -13,7 +13,7 @@ I and my colleague proceed on preparing RFID and badge for newcomer, then I help
 Lastly, I continue my project where I design an architecture for the system. 
 
 ## Day 3
-
+Today I have a meeting with the MIS security teams and 
 
 ## Day 4
 Today 
