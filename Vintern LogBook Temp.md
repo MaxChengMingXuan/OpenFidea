@@ -19,11 +19,13 @@ In the afternoon, I had a meeting with the MIS Security team to discuss the prog
 
 
 ## Day 4
-This week I am the PIC of the resignee, I am in charge to collect the badges, assets, accessories, harddisk,  software doggle and so on. During my PIC week, there are total 8 resignee including one of my co-worker, Ang Yee Ken who is the senior intern which teach us a lot of things. 
+This week I am the PIC for Resignees and I'm responsible for collecting items from resignees such as badges, assets, accessories, hard drives, software, etc. During my PIC week, there were a total of 8 resignees, including one of my coworkers, Ang Yee Ken, who is a senior intern and taught us a lot.
 
-When the resignee arrived, I will check the resignees' belonging with the MIS lists to ensure that they return the correct items, then I will guide them to acknowledge out the items. I will ask them to clock out the last time and return to me.
+Upon arrival of the resignees, I would check the resignees' belongings against the MIS lists to ensure that they had returned the correct items and then I would instruct them to acknowledge out the items. I would ask them to clock in the last time and return it to me.
 
-Then I will need to kept the returns to the resignee locker. 
+I would then need to save the returned items in the resignee locker.
 
-Once kept the items, I will then records the details of the resignees in the google sheet.  Lastly, I need to delete the staff info of the resignees and the rfid record of the resignee.
+After keeping the items, I would record the resignee's details in a Google Sheet. Finally, I need to delete the resigner's employee information and the resigner's rfid record.
 
+## Day 5
+Today, I and my colleague handle for repair of laptop who had the casing broken. I first raise case at Acer official website, then the technician will come to Vitrox to fix the laptop. The technician will provide invoice to company to have Vitrox official stamp to acknowledge the services once the issue is fixed. Then I perform my daily task where I help employee at other department troubleshoot installation of Visual Studio. Lastly, when my daily task in done, I am doing my project of Text Detection where I rearchitect the architecture of my project to make it available for streaming and real time text detection and recognition.
