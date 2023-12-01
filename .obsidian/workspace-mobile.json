@@ -11,8 +11,12 @@
             "id": "d29419408a57c19e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vintern LogBook Temp.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Vintern LogBook Temp.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Vintern LogBook Temp.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Vintern LogBook Temp.md"
+          }
         }
       }
     ],
