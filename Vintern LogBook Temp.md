@@ -19,6 +19,11 @@ In the afternoon, I had a meeting with the MIS Security team to discuss the prog
 
 
 ## Day 4
-This week I am the PIC of the resignee, I am in charge to collect the assets, accessories, harddisk,  software doggle and so on. During my PIC week, there are total 8 resignee including one of my co-worker, Ang Yee Ken who is the senior intern which teach us a lot of things. When the resignee arrived, I will check the resignees' belonging with the MIS lists to ensure that they return the correct items, then I will guide them to acknowledge out the items. Then I will need to kept the returns to the resignee locker. 
+This week I am the PIC of the resignee, I am in charge to collect the badges, assets, accessories, harddisk,  software doggle and so on. During my PIC week, there are total 8 resignee including one of my co-worker, Ang Yee Ken who is the senior intern which teach us a lot of things. 
 
+When the resignee arrived, I will check the resignees' belonging with the MIS lists to ensure that they return the correct items, then I will guide them to acknowledge out the items. I will ask them to clock out the last time and return to me.
+
+Then I will need to kept the returns to the resignee locker. 
+
+Once kept the items, I will then 
 
