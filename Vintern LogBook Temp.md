@@ -6,6 +6,11 @@ After my lunch break, I went to the data center room on the second floor where a
 
 
 ![|400](flow.png) 
+The system architecture
+
 ## Day 2
 I and my colleague proceed on preparing RFID and badge for newcomer, then I help employees in academic department install new printer driver as the original printer on their department is under maintenance. Lastly, I troubleshoot a laptop who the laptop keep facing bluescreen of death that cause by hardware problem. We found out there is problem with the harddisk mounted inside, we try to replace the harddisk where the problem occur.  
-Lastly, I continue my project where I design an architecture for the system. Below is the system architecture
+Lastly, I continue my project where I design an architecture for the system. 
+
+## Day 3
+
