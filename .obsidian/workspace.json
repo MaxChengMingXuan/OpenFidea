@@ -11,11 +11,9 @@
             "id": "e7ea9979befe6fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Vintern LogBook Temp.md",
-                "mode": "source",
-                "source": true
+                "file": "boxes.jpg"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "boxes.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "boxes.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vintern LogBook Temp.md"
+                "file": "boxes.jpg"
               }
             }
           }
@@ -167,15 +165,15 @@
   },
   "active": "e7ea9979befe6fde",
   "lastOpenFiles": [
-    "Meal 1.jpg",
-    "Meal 2.jpg",
     "ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
-    "flow.png",
-    "boxes.jpg",
-    "Resignee PIC.jpg",
+    "Meal 1.jpg",
     "Meal 4.jpg",
     "Meal 3.jpg",
     "Vintern LogBook Temp.md",
+    "Meal 2.jpg",
+    "flow.png",
+    "boxes.jpg",
+    "Resignee PIC.jpg",
     "Untitled.md",
     "Note001.md",
     "printer01.png.md",
