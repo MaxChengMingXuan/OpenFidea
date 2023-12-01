@@ -19,6 +19,6 @@ In the afternoon, I had a meeting with the MIS Security team to discuss the prog
 
 
 ## Day 4
-This week I am the PIC of the resignee
+This week I am the PIC of the resigneea
 
 
