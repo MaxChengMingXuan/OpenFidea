@@ -14,7 +14,7 @@ Lastly, I continue my project where I design an architecture for the system.
 
 ## Day 3
 At the morning I continue to working on my project, continue to classify the ISO policy and company policy.
-At the Afternoon, I have a meeting with the MIS security teams and we discuss about the progress of my project about the ISO27001:2022. I presented about my progress to them and 
+At the Afternoon, I have a meeting with the MIS security teams and we discuss about the progress of my project about the ISO27001:2022 at the meeting corner of ISO department. I presented about my progress to them and then we discuss about the current policy classification accuracy. We 
 
 
 ## Day 4
