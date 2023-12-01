@@ -11,11 +11,9 @@
             "id": "e7ea9979befe6fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Vintern LogBook Temp.md",
-                "mode": "source",
-                "source": true
+                "file": "1701413891333.jpg"
               }
             }
           }
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "1701413891333.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "1701413891333.jpg",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vintern LogBook Temp.md"
+                "file": "1701413891333.jpg"
               }
             }
           }
@@ -165,11 +163,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "920823f9beb02573",
+  "active": "e7ea9979befe6fde",
   "lastOpenFiles": [
+    "Meal 3.jpg",
+    "Meal 2.jpg",
+    "Meal 1.jpg",
+    "1701413891333.jpg",
+    "1701413891328.jpg",
+    "Vintern LogBook Temp.md",
     "flow.png",
     "ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
-    "Vintern LogBook Temp.md",
     "Untitled.md",
     "boxes.jpg",
     "Note001.md",
@@ -182,7 +185,6 @@
     "test.png=300x200.md",
     "test.png=300x0.md",
     "Pasted image 20231123084532 - Copy.png",
-    "Pasted im20231123083230.png",
     "Pasted image 20231123083230.png.md",
     "image.jpg=300x0.md"
   ]
