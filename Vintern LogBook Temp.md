@@ -33,4 +33,4 @@ Today, I and my colleague handle for repair of laptop who had the casing broken.
 
 
 ## Day 1
-I went to the manufacturing department because there is a report from the user telling that the desktop having some problems. We have to wear the safety shoe once we enter the operation area of ViTrox. We diagnosis the pc that having problem and we found may be the HDD problems. 
+I went to the manufacturing department because there was a report from a user that there were some problems with a desktop computer. We diagnosed the computers that were having problems and found out that there might be a problem with the hard disk.
