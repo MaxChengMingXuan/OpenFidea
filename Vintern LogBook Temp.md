@@ -33,4 +33,4 @@ Today, I and my colleague handle for repair of laptop who had the casing broken.
 
 
 ## Day 1
-
+I went to the manufacturing department because there is a report from the user telling that the desktop having some problems. We have to wear
