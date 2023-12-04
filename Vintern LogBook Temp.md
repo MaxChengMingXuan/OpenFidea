@@ -31,6 +31,6 @@ After keeping the items, I would record the resignee's details in a Google Sheet
 ## Day 5
 Today, I and my colleague handle for repair of laptop who had the casing broken. I first raise case at Acer official website, then the technician will come to Vitrox to fix the laptop. The technician will provide invoice to company to have Vitrox official stamp to acknowledge the services once the issue is fixed. Then I perform my daily task where I help employee at other department troubleshoot installation of Visual Studio. Lastly, when my daily task in done, I am doing my project of Text Detection where I rearchitect the architecture of my project to make it available for streaming and real time text detection and recognition.
 
-
+![|300](SafetyShoe.png)
 ## Day 1
 I went to the manufacturing department because there was a report from a user that there were some problems with a desktop computer. We diagnosed the computers that were having problems and found out that there might be a problem with the hard disk.
