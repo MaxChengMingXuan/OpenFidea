@@ -37,3 +37,4 @@ Today, I and my colleague handle newcomer laptop where I setup laptop WIFI. For 
 
 I went to the manufacturing department because there was a report from a user that there were some problems with a desktop computer. We diagnosed the computers that were having problems and found out that there might be a problem with the hard disk.
 
+## Day 2
