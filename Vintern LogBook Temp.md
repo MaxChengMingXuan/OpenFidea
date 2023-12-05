@@ -36,3 +36,4 @@ Today, I and my colleague handle for repair of laptop who had the casing broken.
 Today, I and my colleague handle newcomer laptop where I setup laptop WIFI. For new laptop, there will no IP address given since all employee IP is statically provision, so, my job is to provision IP address to newcomer laptop so that the laptop is internet accessible. Then, I spent some time on my project where I add cache for my system to improve efficiency to retrieve read write intensive workflow.
 
 I went to the manufacturing department because there was a report from a user that there were some problems with a desktop computer. We diagnosed the computers that were having problems and found out that there might be a problem with the hard disk.
+
