@@ -33,8 +33,24 @@ Today, I and my colleague handle for repair of laptop who had the casing broken.
 
 ![|300](SafetyShoe.png)
 ## Day 1
+Work continued in the morning on the classification of IS027001:2022.
+After completing about 1/3 ISO classifications, I also worked on daily operations.
+
 Today, I and my colleague handle newcomer laptop where I setup laptop WIFI. For new laptop, there will no IP address given since all employee IP is statically provision, so, my job is to provision IP address to newcomer laptop so that the laptop is internet accessible. Then, I spent some time on my project where I add cache for my system to improve efficiency to retrieve read write intensive workflow.
 
 I went to the manufacturing department because there was a report from a user that there were some problems with a desktop computer. We diagnosed the computers that were having problems and found out that there might be a problem with the hard disk.
 
+![|300](Dell%20OPTIPLEX%203060%20teardown.png)
+![|300](Dell%20OPTIPLEX%203060%20after%20format.png)
 ## Day 2
+I received feedback from the Operations Area staff from the MIS Operations Team PIC, Chan Siaw Chin, that the desktops are still facing the same issues as yesterday. I was asked to head to the lab and move the desktop back to the MIS department.
+
+Upon returning to MIS, I tried disassembling the Dell OPTIPLEX 3060, removed the HDD hard drive, and then requested a replacement SSD from the operations team and started the installation.
+
+The desktop successfully booted up, then I went into the BIOS to enable USB booting and started installing Windows on it. the desktop ran smoothly. However, there was still some configuration required after installing Windows.
+
+
+![|300](3.5.png)
+![|300](Meal%205.png)
+## Day 3
+Today, there has a request for installation of dotnet framework 3.5. DotnetFramework is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows. However, we face some issue during the installation, where the system found there is some corrupted file which block the installation, we even try to tweak the laptop’s organization group policy, reconfigure windows bios etc but still not make it applicable. At the end, we used NTLite to reinstall the windows to make it possible to install dotnet framework. NTLite is a comprehensive Windows customization tool used to reduce attack vectors, remove some Windows components, simplify Windows installation, and free up drive space
