@@ -56,5 +56,11 @@ The desktop successfully booted up, then I went into the BIOS to enable USB boot
 ## Day 3
 Today, there was a request to install dotnet framework 3.5. Dotnet Framework is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows systems. However, we encountered some problems during the installation process, the system found some corrupted files preventing the installation, we even tried to adjust the organizational group policy of the laptop, reconfigure the Windows bios, etc., but still could not make it work. Finally, we reinstalled Windows using NTLite, a comprehensive Windows customization tool that reduces attack vectors, removes certain Windows components, simplifies Windows installation and frees up drive space.
 
+![](Pasted%20image%2020231211103050.png)
 ## Day 4
 I continued working on the ISO27001:2022 project, discussing with and gathering feedback from the other teams working on the Operational Systems and PICs. I am attempting to complete the first part, Organizational Controls. The objective is to provide management guidance and support for information security in accordance with business requirements and relevant laws and regulations. This includes information security policy, information security roles and responsibilities, etc.
+
+![](Pasted%20image%2020231211103036.png)
+![](Pasted%20image%2020231211103042.png)
+## Day 5
+Today, the new monitors purchased arrived and my coworker and I took the newly arrived monitors back to the office. Later, we tested the monitor and found that 2 parts of the monitor were faulty and the screen would turn purple when turned on. In the end, my coworker and I decided to raise the issue with the vendor and ask for a warranty. Additionally, it is Vitrox's policy to uniquely label each asset, so my coworker and I arranged to print a "code" for each asset and attach it to the newly arrived monitor.
