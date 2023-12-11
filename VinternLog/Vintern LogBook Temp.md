@@ -55,3 +55,6 @@ The desktop successfully booted up, then I went into the BIOS to enable USB boot
 ![|300](Meal%205.png)
 ## Day 3
 Today, there was a request to install dotnet framework 3.5. Dotnet Framework is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows systems. However, we encountered some problems during the installation process, the system found some corrupted files preventing the installation, we even tried to adjust the organizational group policy of the laptop, reconfigure the Windows bios, etc., but still could not make it work. Finally, we reinstalled Windows using NTLite, a comprehensive Windows customization tool that reduces attack vectors, removes certain Windows components, simplifies Windows installation and frees up drive space.
+
+## Day 4
+I continued working on the ISO27001:2022 project, discussing with and gathering feedback from the other teams working on the Operational Systems and PICs. I am attempting to complete the first part, Organizational Controls. The objective is to provide management guidance and support for information security in accordance with business requirements and relevant laws and regulations. This includes information security policy, information security roles and responsibilities, etc.
