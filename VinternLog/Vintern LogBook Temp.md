@@ -1,4 +1,4 @@
-# Log Book Short (20 Nov - 26 Nov 2023)
+# Log Book Short (27 Nov - 3 Dec 2023)
 
 ![|300](boxes.jpg)
 ## Day 1
@@ -31,6 +31,7 @@ After keeping the items, I would record the resignee's details in a Google Sheet
 ## Day 5
 Today, I and my colleague handle for repair of laptop who had the casing broken. I first raise case at Acer official website, then the technician will come to Vitrox to fix the laptop. The technician will provide invoice to company to have Vitrox official stamp to acknowledge the services once the issue is fixed. Then I perform my daily task where I help employee at other department troubleshoot installation of Visual Studio. Lastly, when my daily task in done, I am doing my project of Text Detection where I rearchitect the architecture of my project to make it available for streaming and real time text detection and recognition.
 
+# Log Book Short (4 Nov - 10 Dec 2023)
 ![|300](SafetyShoe.png)
 ## Day 1
 Work continued in the morning on the classification of IS027001:2022.
@@ -53,4 +54,4 @@ The desktop successfully booted up, then I went into the BIOS to enable USB boot
 ![|300](3.5.png)
 ![|300](Meal%205.png)
 ## Day 3
-Today, there has a request for installation of dotnet framework 3.5. DotnetFramework is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows. However, we face some issue during the installation, where the system found there is some corrupted file which block the installation, we even try to tweak the laptop’s organization group policy, reconfigure windows bios etc but still not make it applicable. At the end, we used NTLite to reinstall the windows to make it possible to install dotnet framework. NTLite is a comprehensive Windows customization tool used to reduce attack vectors, remove some Windows components, simplify Windows installation, and free up drive space
+Today, there was a request to install dotnet framework 3.5. Dotnet Framework is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows systems. However, we encountered some problems during the installation process, the system found some corrupted files preventing the installation, we even tried to adjust the organizational group policy of the laptop, reconfigure the Windows bios, etc., but still could not make it work. Finally, we reinstalled Windows using NTLite, a comprehensive Windows customization tool that reduces attack vectors, removes certain Windows components, simplifies Windows installation and frees up drive space.

@@ -11,15 +11,36 @@
             "id": "e7ea9979befe6fde",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "VinternLog/Images/3.5.png"
+              }
+            }
+          },
+          {
+            "id": "99acdc417c830c93",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VinternLog/Images/boxes.jpg"
+              }
+            }
+          },
+          {
+            "id": "14b42e636eb715bf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "VinternLog/Vintern LogBook Temp.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1a09e6c021db1d6b",
@@ -31,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "VinternLog/Vintern LogBook Temp.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "VinternLog/Vintern LogBook Temp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vintern LogBook Temp.md",
+                "file": "VinternLog/Vintern LogBook Temp.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vintern LogBook Temp.md"
+                "file": "VinternLog/Vintern LogBook Temp.md"
               }
             }
           }
@@ -165,20 +186,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7ea9979befe6fde",
+  "active": "14b42e636eb715bf",
   "lastOpenFiles": [
-    "SafetyShoe.png",
-    "3.5.png",
-    "Meal 5.png",
-    "Dell OPTIPLEX 3060 after format.png",
-    "Dell OPTIPLEX 3060 teardown.png",
-    "Vintern LogBook Temp.md",
-    "ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
-    "Resignee PIC.jpg",
-    "boxes.jpg",
-    "flow.png",
-    "Meal 1.jpg",
-    "Meal 4.jpg",
+    "VinternLog/Images/3.5.png",
+    "VinternLog/Vintern LogBook Temp.md",
+    "VinternLog/Images/boxes.jpg",
+    "VinternLog/Images",
+    "VinternLog",
+    "VinternLog/Images/SafetyShoe.png",
+    "VinternLog/Images/Meal 5.png",
+    "VinternLog/Images/Dell OPTIPLEX 3060 after format.png",
+    "VinternLog/Images/Dell OPTIPLEX 3060 teardown.png",
+    "VinternLog/Images/ISOIEC 270012022 INFORMATION SECURITY, CYBERSECURITY AND PRIVACY PROTECTION — INFORMATION SECURITY MANAGEMENT SYSTEMS — REQUIREMENTS.pdf",
+    "VinternLog/Images/Resignee PIC.jpg",
+    "VinternLog/Images/flow.png",
+    "VinternLog/Images/Meal 1.jpg",
+    "VinternLog/Images/Meal 4.jpg",
     "Untitled.md",
     "Note001.md",
     "printer01.png.md",
