@@ -8,26 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7ea9979befe6fde",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "VinternLog/Images/3.5.png"
-              }
-            }
-          },
-          {
-            "id": "99acdc417c830c93",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "VinternLog/Images/boxes.jpg"
-              }
-            }
-          },
-          {
             "id": "14b42e636eb715bf",
             "type": "leaf",
             "state": {
@@ -39,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "1a09e6c021db1d6b",
@@ -189,8 +168,8 @@
   "active": "14b42e636eb715bf",
   "lastOpenFiles": [
     "VinternLog/Images/3.5.png",
-    "VinternLog/Vintern LogBook Temp.md",
     "VinternLog/Images/boxes.jpg",
+    "VinternLog/Vintern LogBook Temp.md",
     "VinternLog/Images",
     "VinternLog",
     "VinternLog/Images/SafetyShoe.png",
