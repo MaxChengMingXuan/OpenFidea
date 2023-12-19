@@ -18,6 +18,16 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "1f004819a2081378",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VinternLog/Images/boxes.jpg"
+              }
+            }
           }
         ]
       },
@@ -29,15 +39,34 @@
             "id": "920823f9beb02573",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "VinternLog/Vintern LogBook Temp.md",
-                "mode": "preview",
-                "source": true
+                "file": "VinternLog/Images/Meal6.png"
+              }
+            }
+          },
+          {
+            "id": "717ecd246f94495d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VinternLog/Images/BenQ.png"
+              }
+            }
+          },
+          {
+            "id": "0d6f307833cdee1f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "VinternLog/Images/BenQ2.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VinternLog/Vintern LogBook Temp.md",
+                "file": "VinternLog/Images/BenQ2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VinternLog/Vintern LogBook Temp.md",
+                "file": "VinternLog/Images/BenQ2.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VinternLog/Vintern LogBook Temp.md"
+                "file": "VinternLog/Images/BenQ2.png"
               }
             }
           }
@@ -165,14 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14b42e636eb715bf",
+  "active": "34c14279a8965660",
   "lastOpenFiles": [
-    "Pasted image 20231211103036.png",
-    "Pasted image 20231211103042.png",
-    "Pasted image 20231211103050.png",
+    "VinternLog/Images/BenQ.png",
+    "VinternLog/Images/Meal6.png",
+    "VinternLog/Images/BenQ2.png",
     "VinternLog/Vintern LogBook Temp.md",
-    "VinternLog/Images/3.5.png",
     "VinternLog/Images/boxes.jpg",
+    "VinternLog/Images/3.5.png",
     "VinternLog/Images",
     "VinternLog",
     "VinternLog/Images/SafetyShoe.png",
