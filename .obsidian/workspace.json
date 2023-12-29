@@ -28,8 +28,19 @@
                 "file": "VinternLog/Images/boxes.jpg"
               }
             }
+          },
+          {
+            "id": "ef5bd9b6722cee5f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "1a09e6c021db1d6b",
@@ -194,7 +205,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34c14279a8965660",
+  "active": "ef5bd9b6722cee5f",
   "lastOpenFiles": [
     "VinternLog/Images/BenQ.png",
     "VinternLog/Images/Meal6.png",
